@@ -1,0 +1,123 @@
+{
+  "mahasiswa" :
+  [{
+  "id": 1,
+  "name": "Tabbi de Werk",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Madonna Bazoge",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Arthur Easom",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Sibby Gosden",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Woody Rattery",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Melisenda Hucks",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Valle Leeuwerink",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Gretna Letessier",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Camey Dabnor",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Mellicent Roath",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Mariquilla Saladino",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Cindy Burgin",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Rochell Downgate",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Lewie Dumbrall",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Shaylah Marioneau",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Loleta Freckelton",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Brantley Rawlinson",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Hannah Mechic",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Karoline Buckhurst",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Lydia Klamp",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Neddy Hirsch",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Else Matyatin",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Phyllis Dewdney",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Rodrique Beall",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Sheila Geraldi",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Gardener Schrader",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Rene Carwithen",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Estella Minard",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Wang Baude",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Maje O'Scully",
+  "gender": "Male"
+}]
