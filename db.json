@@ -1,6 +1,5 @@
 {
-  "mahasiswa" :
-  [{
+  "mahasiswa" :[{
   "id": 1,
   "name": "Tabbi de Werk",
   "gender": "Female"
@@ -120,4 +119,5 @@
   "id": 30,
   "name": "Maje O'Scully",
   "gender": "Male"
-}] }
+}] 
+}
